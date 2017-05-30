@@ -1,0 +1,9 @@
+//supose we are working 0n a module.It has many sub module. 
+//Ex.Sales Office,user details,update user details,trans file etc.
+//we r sending data in json format.for this we makes ajax call XMLHTTPREQUEST.
+//in ajs we use $http() method.
+$http.post(getSalesOffices.htm',parameter)
+.Success(){
+//converting data into string format.
+.Error();
+in case of request failure.
